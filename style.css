@@ -6,4 +6,13 @@ p
 textarea
 {
     font-size: 40px;
+    background-color: rgb(99, 251, 251);
+
+}
+body
+{
+    display: flex;
+    justify-items: center;
+    flex-direction: column;
+    background-color: rgb(13, 181, 181);
 }

@@ -22,7 +22,7 @@ function CheckAlphabet(text)
         }
     }
 
-  // Find missing letters
+  
   const missing = [...alphabet].filter(letter => !seen.has(letter));
 
   const p = document.getElementById("alphabet");
